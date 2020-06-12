@@ -1,0 +1,8 @@
+This video downloader was included in Nyxt until 1.5 (called Next back then).
+
+It's mostly an interface to youtube-dl.
+It has a few shortcoming though: It does not show progress, it does not allow
+for cancelling, it does not reuse the Nyxt download interface.
+
+Ideally, we would overhaul the Nyxt download interface to support multiple
+backends, youtube-dl included.
